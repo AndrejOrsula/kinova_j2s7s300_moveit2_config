@@ -1,0 +1,19 @@
+fake_joint_driver_node:
+  ros__parameters:
+    start_position:
+      joints:
+        - j2s7s300_joint_1
+        - j2s7s300_joint_2
+        - j2s7s300_joint_3
+        - j2s7s300_joint_4
+        - j2s7s300_joint_5
+        - j2s7s300_joint_6
+        - j2s7s300_joint_7
+      values:
+        - 3.1415
+        - 3.1415
+        - 3.1415
+        - 3.1415
+        - 3.1415
+        - 3.1415
+        - 3.1415
